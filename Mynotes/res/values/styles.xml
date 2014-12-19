@@ -1,0 +1,41 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+    <!-- 首页标题栏的LinearLayout的style -->
+	<style name="TitleBarLinearLayout">
+	    <item name="android:paddingLeft">10dp</item>
+	    <item name="android:orientation">horizontal</item>
+	    <item name="android:background">@color/titlebar_color</item>
+	</style>
+	
+	<!-- 首页标题栏的TextView的style -->
+	<style name="TitleBarTextView">
+	    <item name="android:gravity">top</item>
+	    <item name="android:singleLine">true</item>
+	    <item name="android:textColor">#FFffffff</item>
+	    <item name="android:text">@string/MyNotes</item>
+	    <item name="android:textSize">24sp</item>
+	</style>
+	
+	<!-- 首页标题栏的ImageButton的Style -->
+	<style name="TitleBarImageButton">
+	    <item name="android:background">@drawable/titlebar_imagebutton_addnote</item>
+	    <item name="android:gravity">top</item>
+	</style>
+</resources>

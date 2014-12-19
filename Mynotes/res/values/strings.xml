@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">彩色便签</string>
+    <string name="action_settings">Settings</string>
+	<string name="MyNotes">彩色便签</string>
+	<string name="app_widget2x2">彩色便签(2x2)</string>
+	<string name="app_widget4x4">彩色便签(4x4)</string>
+	<!-- 主界面 菜单 -->
+	<string name="new_note">新建笔记</string>
+	<string name="new_folder">新建文件夹</string>
+	<string name="move_to_folder">移进文件夹</string>
+	<string name="delete">删除笔记</string>
+	<string name="export_to_text">输出文本</string>
+	<string name="backup_data">备份笔记</string>
+	<string name="restore_data">还原笔记</string>
+	<string name="set_password">设置密码</string>
+	
+	<!-- 输出txt文本 -->
+	<string name="exportTXTFailed">导出TXT文件失败</string>
+	<string name="exportTXTSucc">导出TXT文件成功</string> 
+	<!-- 备份 -->
+	<string name="backupDataFailed">备份失败</string>
+	<string name="backupDataSucc">备份成功 </string>
+	<!-- 数据还原 -->
+	<string name="restoreDataSuc">数据还原成功！</string>
+	<string name="restoreDataFailed">数据还原失败！</string>
+	
+	<string name="ok">确认</string>
+	<string name="cancel">取消</string>
+	<!-- 笔记界面 菜单文字 -->
+	
+	<string name="delete_note">删除笔记</string>
+	<string name="alarm_time">设置闹钟</string>
+	<string name="add_shortcut_to_home">发送到桌面</string>
+	<string name="share_sms_or_email">分享</string>
+	<string name="share_with_sms">短信分享</string>
+	<string name="share_with_email">邮件分享</string>
+	<!-- 闹钟相关 -->
+	<string name="set_alarm_date">设置提醒日期</string>
+	<string name='set_alarm_time'>设置提醒时间</string>
+	
+	<!-- about password -->
+	<string name="change_password">修改密码</string>
+	<string name="clear_password">清除密码</string>
+	<string name="password">密码:</string>
+	<string name="confirm_psd">确认:</string>
+	<string name="change_password_failed"> 修改密码失败</string>
+	<string name="change_password_succ">修改密码成功</string>
+	<string name="set_password_failed">设置密码失败</string>
+	<string name="set_password_succ">设置密码成功</string>
+	
+	<!-- FolderNotesActivity Menu -->
+	<string name="update_folder_name">修改文件夹名称</string>
+	<string name="move_out_folder">移出文件夹</string>
+	
+</resources>

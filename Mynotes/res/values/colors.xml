@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titlebar_color">#ffff6666</color>
+    <color name="main_background">#ffffffff</color>
+    <!-- style 1 -->
+    <color name="notes_header_1">#ffff6666</color>
+    <color name="main_background_1">#ffffff00</color>
+    <color name="item_light_1">#ff3399cc</color>
+    <!-- style 2 -->
+    <color name="notes_header_2">#ffcc3399</color>
+    <color name="main_background_2">#ffffcc99</color>
+    <color name="item_light_2">#ffff0066</color>
+    <!-- style 3 -->
+    <color name="notes_header_3">#ffcc0066</color>
+    <color name="main_background_3">#ff009999</color>
+    <color name="item_light_3">#ffffcc33</color>
+    <!-- style 4 -->
+    <color name="notes_header_4">#ff66cccc</color>
+    <color name="main_background_4">#ffccff66</color>
+    <color name="item_light_4">#ffff99cc</color>
+    <!-- style 5 -->
+    <color name="notes_header_5">#ffffcccc</color>
+    <color name="main_background_5">#ffffff99</color>
+    <color name="item_light_5">#ffccccff</color>
+    <!-- style 6 -->
+    <color name="notes_header_6">#ffffffcc</color>
+    <color name="main_background_6">#ffccffff</color>
+    <color name="item_light_6">#ffffcccc</color>
+    <!-- style 7 -->
+    <color name="notes_header_7">#ffff6600</color>
+    <color name="main_background_7">#ffffff66</color>
+    <color name="item_light_7">#ff009966</color>
+    <!-- style 8 -->
+    <color name="notes_header_8">#ff666699</color>
+    <color name="main_background_8">#ffffff00</color>
+    <color name="item_light_8">#ffff0033</color>
+    <!-- style 9 -->
+    <color name="notes_header_9">#ff66cc99</color>
+    <color name="main_background_9">#ffffffff</color>
+    <color name="item_light_9">#ffcc6699</color>
+    <!-- style 10 -->
+    <color name="notes_header_10">#ffffcc99</color>
+    <color name="main_background_10">#ffffffcc</color>
+    <color name="item_light_10">#ff99ccff</color>
+    <!-- style 11 -->
+    <color name="notes_header_11">#ffffcc99</color>
+    <color name="main_background_11">#ffccff99</color>
+    <color name="item_light_11">#ffcccc99</color>
+    <!-- style 12 -->
+    <color name="notes_header_12">#ffff99cc</color>
+    <color name="main_background_12">#ff003399</color>
+    <color name="item_light_12">#ffccff00</color>
+    <!-- style 13 -->
+    <color name="notes_header_13">#ff99cc33</color>
+    <color name="main_background_13">#ffffffff</color>
+    <color name="item_light_13">#ffff6600</color>
+    <!-- style 14 -->
+    <color name="notes_header_14">#ffcccc99</color>
+    <color name="main_background_14">#ffcc3399</color>
+    <color name="item_light_14">#ff99cc00</color>
+    <!-- style 15 -->
+    <color name="notes_header_15">#ffffffff</color>
+    <color name="main_background_15">#ff66cc99</color>
+    <color name="item_light_15">#ffe0e0d0</color>
+    <!-- style 16 -->
+    <color name="notes_header_16">#ffff99cc</color>
+    <color name="main_background_16">#ffccff66</color>
+    <color name="item_light_16">#ff66cccc</color>
+    
+</resources>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="320dp"
+    android:orientation="vertical"
+    android:background="@android:color/transparent" >
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="80dp"
+	    android:orientation="horizontal"
+	    android:background="@android:color/transparent" >
+	    
+	    <ImageButton 
+	        android:id="@+id/styleButton1"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_1"
+	        />
+	    <ImageButton 
+	        android:id="@+id/styleButton2"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_2"/>
+	    <ImageButton 
+	        android:id="@+id/styleButton3"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_3"/>
+	    <ImageButton 
+	        android:id="@+id/styleButton4"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_4"/>
+	</LinearLayout>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="80dp"
+	    android:orientation="horizontal"
+	    android:background="@android:color/transparent" >
+	    
+	    <ImageButton 
+	        android:id="@+id/styleButton5"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_5"
+	        />
+	    <ImageButton 
+	        android:id="@+id/styleButton6"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_6"/>
+	    <ImageButton 
+	        android:id="@+id/styleButton7"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_7"/>
+	    <ImageButton 
+	        android:id="@+id/styleButton8"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_8"/>
+	</LinearLayout>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="80dp"
+	    android:orientation="horizontal"
+	    android:background="@android:color/transparent" >
+	    
+	    <ImageButton 
+	        android:id="@+id/styleButton9"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_9"
+	        />
+	    <ImageButton 
+	        android:id="@+id/styleButton10"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_10"/>
+	    <ImageButton 
+	        android:id="@+id/styleButton11"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_11"/>
+	    <ImageButton 
+	        android:id="@+id/styleButton12"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_12"/>
+	</LinearLayout>
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="80dp"
+	    android:orientation="horizontal"
+	    android:background="@android:color/transparent" >
+	    
+	    <ImageButton 
+	        android:id="@+id/styleButton13"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_13"
+	        />
+	    <ImageButton 
+	        android:id="@+id/styleButton14"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_14"/>
+	    <ImageButton 
+	        android:id="@+id/styleButton15"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_15"/>
+	    <ImageButton 
+	        android:id="@+id/styleButton16"
+	        android:layout_width="0dp"
+	        android:layout_height="80dp"
+	        android:layout_weight="1"
+	        android:background="@color/item_light_16"/>
+	</LinearLayout>
+	    
+</LinearLayout>
+

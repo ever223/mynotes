@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget40"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/main_background_1"
+    android:padding="5dp">
+    
+    <!-- Title -->
+    <LinearLayout 
+        android:id="@+id/widget_detail_header"
+        style="@style/TitleBarLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:layout_marginLeft="5.0dp"
+        android:layout_marginRight="5.0dp"
+        android:background="@color/notes_header_1">
+        
+        <TextView 
+            android:id="@+id/tv_widget_date_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:layout_weight="1.0"
+            android:textColor="#ff000000"
+            android:textSize="13.0sp"
+            android:textStyle="bold"/>
+        <ImageButton 
+            android:id="@+id/imagebutton_bgcolor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right"
+            android:layout_marginLeft="8.0dip"
+            android:layout_marginRight="8.0dip"
+            android:background="@drawable/titlebar_imagebutton_bg_color"/>
+    </LinearLayout>
+    <LinearLayout 
+        android:id="@+id/widget_detail_mid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <EditText 
+        android:id="@+id/et_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/item_light_1"
+        android:gravity="top|left"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        android:paddingLeft="5dp"
+        android:textColor="#ff000000"
+        android:textStyle="italic"
+        android:textSize="20.0sp" />
+    </LinearLayout>
+</LinearLayout>

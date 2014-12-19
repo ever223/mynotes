@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget46"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/widget35"
+        style="@style/TitleBarLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" >
+
+        <TextView
+            android:id="@+id/tvTitle"
+            style="@style/TitleBarTextView"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.67" />
+        
+        <ImageButton 
+            android:id="@+id/addButton"
+            style="@style/TitleBarImageButton"
+            android:layout_width="40.0dip"
+            android:layout_height="40.0dip"
+            android:layout_gravity="right|center"
+            android:layout_marginRight="15.0dip"
+            />
+    </LinearLayout>
+    
+
+	    <ListView 
+	        android:id="@+id/list"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:layout_gravity="center_horizontal"
+	        android:divider="@android:color/white"
+	        android:dividerHeight="1.0dip"
+	        android:layout_marginTop="1.0dip"
+	        android:layout_marginLeft="2dp"
+	        android:layout_marginRight="2dp"
+	        android:fadingEdgeLength="2.0dip"
+	        android:listSelector="@android:color/transparent"/>
+
+</LinearLayout>
